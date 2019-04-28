@@ -23,8 +23,7 @@ To take the survey and be matched, the user will press the "Survey" button and b
 
 ![friendFinder-survey](/images/friendFinder-survey.png)
 
-Once the user completes the survey the data will be compared to the existing friends in the friends.js file and a modal pop-up
-will appear displaying the user's "best match".
+Once the user completes the survey the data will be compared to the existing friends in the friends.js file and a modal pop-up will appear displaying the user's "best match".
 
 <h3>HTML Routing</h3>
 
@@ -36,5 +35,5 @@ The htmlRoutes.js file includes a:
 
 The apiRoutes.js file includes a:
 - GET  route with the url /api/friends which is used to display a JSON of all possible friends, and
-- POST routes /api/friends which wis used to handle incoming survey results as well as handle the compatibility logic. 
+- POST routes /api/friends which is used to handle incoming survey results as well as handle the compatibility logic. 
 
