@@ -17,7 +17,7 @@ When initally visiting the FriendFinder <strong>HOME PAGE</strong> they will see
 
 ![friendFinder-home](/images/friendFinder-home.png)
 
-To take the survey and be matched, the user will press the "Survey" button and be taken to the following survey page:
+To take the survey and be matched, the user will press the "Survey" button and be taken to the following <strong>Survey Page</strong>:
 
 ![friendFinder-survey](/images/friendFinder-survey.png)
 
