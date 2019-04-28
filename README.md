@@ -13,7 +13,7 @@ To get started with this application, the user will need to install the followin
 
 To get help with this project the user can refer to the documentation in npm.
 
-When initally visiting the FriendFinder <strong>HOME PAGE<strong> they will see the following:
+When initally visiting the FriendFinder <strong>HOME PAGE</strong> they will see the following:
 
 ![friendFinder-home](/images/friendFinder-home.png)
 
